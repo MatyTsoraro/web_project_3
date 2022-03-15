@@ -32,8 +32,4 @@
     gap: 12px;
     padding: 0 16px;
   }
-  .photo-grid__pic {
-    max-width: none;
-    max-height: none;
-  }
 }
