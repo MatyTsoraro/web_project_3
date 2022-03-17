@@ -25,4 +25,4 @@ Semantic HTML5
 
 Public Github Pages Link:
 
-https://github.com/MatyTsoraro/web_project_3
+https://github.com/MatyTsoraro/MatyTsoraro/tree/main
